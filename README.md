@@ -70,7 +70,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 
 R: Arquivo InverterString.js.
 
-##
+
 
 ## Estágio:
 
