@@ -4,8 +4,8 @@
 
 <p align="center">
  <a href="#-Atividades">Atividades</a> •
- <a href="#-Estágio">Como executar</a> • 
-  <a href="#-Curriculo">Requisitos</a> • 
+ <a href="#-Estágio">Estágio</a> • 
+  <a href="#-Curriculo">Meu Curriculo</a> • 
 </p>
 
 ## 💻 Atividades:
@@ -51,11 +51,11 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-## ✅ Estágio:
+## Estágio:
 
 ### Por que devo ser escolhida para o estágio?
 Como candidata, alinho-me perfeitamente com os requisitos da vaga na Target. Estou no terceiro semestre de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2025. Minha experiência em backend, com JavaScript e Node.js, além do gerenciamento de bancos de dados PostgreSQL, atende às necessidades da posição. Adquiri habilidades de comunicação e trabalho em equipe em diversos setores. Minha autogestão e comprometimento refletem-se na eficiência e na busca constante por aprendizado. Estou preparada para contribuir positivamente com a equipe da Target.
 
-## ✅ Curriculo:
+## Curriculo:
 
- <a href="curriculo/Curriculo Karol Padrão.pdf" download ></a>
+- [Baixe meu currículo](file:///C:/Users/Acer/Downloads/Curriculo%20Karolayne.pdf)
