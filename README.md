@@ -21,7 +21,7 @@ SOMA = SOMA + K;
 imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
-R: 91, arquivo soma.js.
+ R: 91, arquivo soma.js.
 
 ##
 
@@ -56,6 +56,7 @@ f) 20 - aumento de 1.
 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
 R: Eu começaria testando o interruptor numero 1, ligaria o interruptor e iria até a sala de lâmpadas e anotaria qual lâmpada é correspondente á ele.
 Voltaria para a sala de interruptores, ligaria o interruptor numero 2, mantendo os demais desligados, iria ate á sala de lâmpadas verificaria e anotaria quais lâmpadas são correspondentes á ele. As lâmpadas que não tiverem acendido quando liguei o interruptor 1 e 2, serão automaticamente correspondentes ao interruptor 3. Com isso, determino com certeza qual interruptor controla cada lâmpada após apenas duas idas até a sala das lâmpadas.
 
